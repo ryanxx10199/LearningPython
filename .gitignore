@@ -1,0 +1,12 @@
+# Virtual Environment (DO NOT PUSH)
+VE/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional but cleaner)
+.vscode/
